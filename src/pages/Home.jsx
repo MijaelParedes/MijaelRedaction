@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import Mascota from "/components/Mascota";
+import Mascota from "../components/Mascota";
 import MascotaFlotante from "/components/MascotaFlotante";
 
 export default function Home() {
