@@ -1,0 +1,2 @@
+# MijaelRedaction
+ Plataforma de redacción
