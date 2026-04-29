@@ -16,7 +16,7 @@ export default function Home() {
 
       <div className="max-w-2xl bg-white shadow-xl rounded-2xl p-10 text-center">
         <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-6">
-          Plataforma Ortográfica <span className="text-indigo-600">con IA</span>
+          Laboratorio de Redactores <span className="text-indigo-600">+IA</span>
         </h1>
         <p className="text-gray-600 text-lg md:text-xl mb-8">
           Fortalece tu escritura con tecnología inteligente y actividades personalizadas.
