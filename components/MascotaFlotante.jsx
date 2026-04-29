@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Mascota from "./Mascota";
+import Mascota from "./mascota";
 
 export default function MascotaFlotante() {
     const [hover, setHover] = useState(false);
