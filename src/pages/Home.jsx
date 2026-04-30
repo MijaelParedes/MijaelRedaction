@@ -16,7 +16,7 @@ export default function Home() {
 
       <div className="max-w-2xl bg-white shadow-xl rounded-2xl p-10 text-center">
         <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-6">
-          Laboratorio de <span className="text-indigo-600">Redactores</span> <span className="text-indigo-600">+IA</span>
+          Laboratorio de <span className="text-indigo-600">Redactores</span> <span className="text-blue-600">+IA</span>
         </h1>
         <p className="text-gray-600 text-lg md:text-xl mb-8">
           Fortalece tu escritura con tecnología inteligente y actividades personalizadas.
